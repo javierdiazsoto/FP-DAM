@@ -1,0 +1,2 @@
+- **/Entorno de Desarrollo**: Contiene proyectos relacionados con la asignatura de Entorno de Desarrollo.
+- **deposito**: Proyecto que implementa una clase CCuenta para gestionar cuentas bancarias.
