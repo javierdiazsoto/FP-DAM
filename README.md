@@ -1,2 +1,2 @@
-- **Entorno de Desarrollo**: Contiene proyectos relacionados con la asignatura de Entorno de Desarrollo.
-- **Entorno de Desarrollo/diaz_soto_francisco_javier_ED04_Tarea**: Proyecto que implementa una clase CCuenta para gestionar cuentas bancarias, JAVADOC y toda la tarea completa.
+- **Entornos de Desarrollo**: Contiene proyectos relacionados con la asignatura de Entorno de Desarrollo.
+- **Entornos de Desarrollo/diaz_soto_francisco_javier_ED04_Tarea**: Proyecto que implementa una clase CCuenta para gestionar cuentas bancarias, JAVADOC y toda la tarea completa.
